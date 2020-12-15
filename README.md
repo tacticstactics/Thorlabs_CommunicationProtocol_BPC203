@@ -1,1 +1,2 @@
-# Thorlabs_CommunicationProtocol_BPC202
+# Thorlabs_CommunicationProtocol_BPC203
+Python
